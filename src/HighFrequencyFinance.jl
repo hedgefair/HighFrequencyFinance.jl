@@ -1,0 +1,4 @@
+module HighFrequencyFinance
+
+
+end # module
