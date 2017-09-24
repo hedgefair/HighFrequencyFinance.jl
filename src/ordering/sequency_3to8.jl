@@ -1,0 +1,6 @@
+sequency8(a,b,c,d,e,f,g,h) = (a,c,f,d,b,e,g,h)
+sequency7(a,b,c,d,e,f,g)   = (a,c,f,d,b,e,g)
+sequency6(a,b,c,d,e,f)     = (a,c,f,d,b,e)
+sequency5(a,b,c,d,e)       = (a,c,d,b,e)
+sequency4(a,b,c,d)         = (a,c,d,b)
+sequency3(a,b,c)           = (a,c,b)
