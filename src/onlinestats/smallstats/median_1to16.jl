@@ -2,6 +2,8 @@
 	   median of 1..16 values
 	   
            fastest portable realization
+           requires no memory allocation
+
            by Jeffrey A. Sarnoff (c) 2016-2017
            last edits 2017-09-24T11:45:00Z
                       Manhattan NYC NY USA 
