@@ -6,6 +6,7 @@ include("ordering/minmidmax.jl")
 include("ordering/sequency_3to8.jl")
 
 # very fast median of 1,2,..,15,16 values
+# median of odd number of values is fastest
 include("onlinestats/smallstats/median_1to16.jl")  
 
 # fast rolling of windowed function over a vector
